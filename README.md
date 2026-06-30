@@ -13,9 +13,9 @@ A web-based system designed to manage and streamline disability-related services
 
  Tech Stack
 
-- Frontend: HTML, CSS, JavaScript (or React if used)
-- Backend: PHP / Node.js / Python (specify yours)
-- Database: MySQL / PostgreSQL
-- Server: XAMPP / Apache / Nginx
+- Frontend: HTML, CSS, JavaScript 
+- Backend: PHP 
+- Database: MySQL
+- Server: XAMPP 
 
 
